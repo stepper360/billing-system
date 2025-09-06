@@ -533,9 +533,9 @@
                 <div class="price-amount">KSH 10</div>
                 <div class="price-duration">1 Hr 30 Min Access</div>
                 <ul class="price-features">
-                    <li><i class="fas fa-check"></i>Access for 1 Hr 30 Min</li>
-                    <li><i class="fas fa-check"></i>1 Device Connection</li>
-                    <li><i class="fas fa-check"></i>unlimited usage</li>
+                    <li><i class="fas fa-check"></i><font color=" black">Access for 1 Hr 30 Min</font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">1 Device Connection</font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">unlimited usage</font></li>
                 </ul>
                 <button class="btn">Select Plan</button>
             </div>
@@ -545,9 +545,9 @@
                 <div class="price-amount">KSH 20</div>
                 <div class="price-duration">3 Hr 30 Min Access</div>
                 <ul class="price-features">
-                    <li><i class="fas fa-check"></i>Access for 3 Hr 30 Min</li>
-                    <li><i class="fas fa-check"></i>1 Device Connection</li>
-                    <li><i class="fas fa-check"></i>unlimited usage</li>
+                    <li><i class="fas fa-check"></i><font color=" black">Access for 3 Hr 30 Min</font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">1 Device Connection</font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">unlimited usage</font></li>
                 </ul>
                 <button class="btn">Select Plan</button>
             </div>
@@ -557,9 +557,9 @@
                 <div class="price-amount">KSH 30</div>
                 <div class="price-duration">6 Hr 30 Min Access</div>
                 <ul class="price-features">
-                    <li><i class="fas fa-check"></i>Access for 6 Hr 30 Min</li>
-                    <li><i class="fas fa-check"></i>1 Device Connection</li>
-                    <li><i class="fas fa-check"></i>unlimited usage</li>
+                    <li><i class="fas fa-check"></i><font color=" black">Access for 6 Hr 30 Min</font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">1 Device Connection</font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">unlimited usage</font></li>
                 </ul>
                 <button class="btn btn-secondary">Select Plan</button>
             </div>
@@ -569,9 +569,9 @@
                 <div class="price-amount">KSH 50</div>
                 <div class="price-duration">8 Hr 30 Min Access</div>
                 <ul class="price-features">
-                    <li><i class="fas fa-check"></i>Access for 8 Hr 30 Min</li>
-                    <li><i class="fas fa-check"></i>2 Device Connections</li>
-                    <li><i class="fas fa-check"></i>unlimited usage</li>
+                    <li><i class="fas fa-check"></i><font color=" black">Access for 8 Hr 30 Min</font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">2 Device Connections</font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">unlimited usage</font></li>
                 </ul>
                 <button class="btn">Select Plan</button>
             </div>
@@ -581,9 +581,9 @@
                 <div class="price-amount">KSH 100</div>
                 <div class="price-duration">12 Hr 30 Min Access</div>
                 <ul class="price-features">
-                    <li><i class="fas fa-check"></i>Access for 12 Hr 30 Min</li>
-                    <li><i class="fas fa-check"></i>3 Device Connections</li>
-                    <li><i class="fas fa-check"></i>unlimited usage</li>
+                    <li><i class="fas fa-check"></i><font color=" black">Access for 12 Hr 30 Min</font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">3 Device Connections</font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">unlimited usage</font></li>
                 </ul>
                 <button class="btn">Select Plan</button>
             </div>
@@ -593,9 +593,9 @@
                 <div class="price-amount">KSH 300</div>
                 <div class="price-duration">1 WEEK Access</div>
                 <ul class="price-features">
-                    <li><i class="fas fa-check"></i>Access for 1 WEEK </li>
-                    <li><i class="fas fa-check"></i>5 Device Connections</li>
-                    <li><i class="fas fa-check"></i>unlimited usage</li>
+                    <li><i class="fas fa-check"></i><font color=" black">Access for 1 WEEK </font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">5 Device Connections</font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">unlimited usage</font></li>
                 </ul>
                 <button class="btn">Select Plan</button>
             </div>
@@ -605,9 +605,9 @@
                 <div class="price-amount">KSH 600</div>
                 <div class="price-duration">2 WEEKS Access</div>
                 <ul class="price-features">
-                    <li><i class="fas fa-check"></i>Access for 2 WEEKS </li>
-                    <li><i class="fas fa-check"></i>5 Device Connections</li>
-                    <li><i class="fas fa-check"></i>unlimited usage</li>
+                    <li><i class="fas fa-check"></i><font color=" black">Access for 2 WEEKS </font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">5 Device Connections</font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">unlimited usage</font></li>
                 </ul>
                 <button class="btn">Select Plan</button>
             </div>
@@ -617,9 +617,9 @@
                 <div class="price-amount">KSH 1500</div>
                 <div class="price-duration">4 WEEKS Access</div>
                 <ul class="price-features">
-                    <li><i class="fas fa-check"></i>Access for 4 WEEKS </li>
-                    <li><i class="fas fa-check"></i>10 Device Connections</li>
-                    <li><i class="fas fa-check"></i>unlimited usage</li>
+                    <li><i class="fas fa-check"></i><font color=" black">Access for 4 WEEKS </font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">10 Device Connections</font></li>
+                    <li><i class="fas fa-check"></i><font color=" black">unlimited usage</font></li>
                 </ul>
                 <button class="btn">Select Plan</button>
             </div>
